@@ -26,5 +26,51 @@
   "bugs": {
     "url": "https://github.com/EnergeticPixels/genesis/issues"
   },
-  "homepage": "https://github.com/EnergeticPixels/genesis#readme"
+  "homepage": "https://github.com/EnergeticPixels/genesis#readme",
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "bunyan": "1.6.0",
+    "compression": "1.6.1",
+    "config": "1.19.0",
+    "cors": "2.7.1",
+    "express": "4.13.4",
+    "method-override": "2.3.5",
+    "mongoose": "4.4.4",
+    "morgan": "1.6.1",
+    "passport": "0.3.2"
+  },
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "chai": "^3.5.0",
+    "chalk": "^1.1.1",
+    "dateformat": "^1.0.12",
+    "debug": "^2.2.0",
+    "del": "^2.2.0",
+    "glob": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-htmlmin": "^1.3.0",
+    "gulp-if": "^2.0.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-order": "^1.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-scss": "^1.3.17",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-task-listing": "^1.0.1",
+    "gulp-uglify": "^1.5.2",
+    "gulp-useref": "^3.0.5",
+    "gulp-util": "^3.0.7",
+    "jshint-stylish": "^2.1.0",
+    "mocha": "^2.4.5",
+    "mocha-clean": "^1.0.0",
+    "mocha-jsxhint": "0.0.10",
+    "mocha-phantomjs": "^4.0.2",
+    "phantomjs-prebuilt": "^2.1.4",
+    "plato": "^1.5.0",
+    "q": "^1.4.1",
+    "wiredep": "^3.0.0"
+  }
 }
