@@ -1,0 +1,30 @@
+{
+  "name": "genesis",
+  "version": "0.0.1",
+  "description": "This is meant to be a clean starting point for all my node-based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnergeticPixels/genesis.git"
+  },
+  "keywords": [
+    "express4",
+    "mongoose",
+    "mongodb",
+    "mocha",
+    "phantomjs",
+    "gulp",
+    "ejs.",
+    "jade",
+    "reactjs"
+  ],
+  "author": "Anthony Jackman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnergeticPixels/genesis/issues"
+  },
+  "homepage": "https://github.com/EnergeticPixels/genesis#readme"
+}
